@@ -1,0 +1,33 @@
+.dice {
+    display: inline-block ;
+    text-align: center ;
+    margin-right: 4rem ;
+}
+h1 {
+    text-align: center ;
+    margin : 30px ;
+    text-shadow: 5px 0 rgb(45, 44, 44);
+    font-family: 'lobster' , cursive ;
+    font-size:  8rem ;
+    color:rgb(0, 231, 154)
+}
+.container {
+    text-align: center;
+    width : 70% ;
+    margin : auto ;
+}
+body {
+  background-color: #393E46;
+  }
+
+p{
+    font-size: 2rem ;
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive ;
+    color:rgb(183, 236, 218) ;
+}
+footer {
+    text-align: center ;
+    margin-top: 4rem ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif , cursive ;
+    color :rgb(233, 116, 116)
+}
